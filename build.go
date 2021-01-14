@@ -5,7 +5,7 @@
 //+build vendor
 
 package main
-
+士大夫胜多负少
 // Libraries that are included to vendor utilities used during build.
 // These libraries will not be included in a normal compilation.
 
